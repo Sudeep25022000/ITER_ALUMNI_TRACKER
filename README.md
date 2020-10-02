@@ -15,6 +15,4 @@ Security features with login for every user.
 Technologies to be used : HTML, CSS, PHP, MySQL
 
 The project is to be developed by pseudeo Devops a team for Hackerwar 2.0
-
-Team 17 under the guidance of mentor Karan Ludhani (Web Developer)
   
